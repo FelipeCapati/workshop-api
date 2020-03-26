@@ -11,9 +11,9 @@ PUBLIC_PATH = os.path.join(APP_PATH, '../../doc/')
 
 config.app = Flask(__name__, static_folder=PUBLIC_PATH, template_folder=PUBLIC_PATH)
 
-# Import api modules
-import src.infra.http.api.example
-import src.infra.http.api.doc
+# Import routes modules
+import src.infra.http.routes.example
+import src.infra.http.routes.doc
 
 def run():
     # Start http server

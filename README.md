@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract ##
-This project is a example api.
+Validates if the number is greater than or less than 10 and shows whether the boolean was True or False.
 
 ## I. Development Requirements ##
 

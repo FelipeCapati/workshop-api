@@ -48,7 +48,7 @@ define({ "api": [
       ]
     },
     "version": "0.0.0",
-    "filename": "src/infra/http/api/example.py",
+    "filename": "src/infra/http/routes/example.py",
     "groupTitle": "Example"
   }
 ] });

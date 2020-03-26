@@ -1,5 +1,5 @@
 from flask import jsonify, request
-import src.application.api.example as example
+import src.controller.example as example
 import src.infra.http.auth as auth
 import config
 
@@ -24,12 +24,6 @@ import config
 @auth.requires_auth
 def request_ocr_v1():
     try:
-        if not('bool' in request.json):
-            raise ValueError('Specify key bool in Body')
-
-        if not('number' in request.json):
-            raise ValueError('Specify key number in Body')
-
         response = example.run(request)
 
         return jsonify(response), 200
