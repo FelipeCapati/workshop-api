@@ -40,7 +40,7 @@ setup(
         "packaging==19.2",
         "pdf2image==1.10.0",
         "pdfminer==20191125",
-        "Pillow==6.2.1",
+        "Pillow==8.1.1",
         "pluggy==0.13.1",
         "py==1.8.0",
         "pycryptodome==3.9.4",
