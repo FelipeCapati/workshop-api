@@ -42,7 +42,7 @@ setup(
         "pdfminer==20191125",
         "Pillow==6.2.1",
         "pluggy==0.13.1",
-        "py==1.8.0",
+        "py==1.10.0",
         "pycryptodome==3.9.4",
         "pyparsing==2.4.5",
         "PyPDF2==1.26.0",
