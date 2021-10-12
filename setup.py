@@ -36,7 +36,7 @@ setup(
         "MarkupSafe==1.1.1",
         "more-itertools==8.0.0",
         "numpy==1.17.4",
-        "opencv-python==4.1.1.26",
+        "opencv-python==4.2.0.32",
         "packaging==19.2",
         "pdf2image==1.10.0",
         "pdfminer==20191125",
