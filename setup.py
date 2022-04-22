@@ -45,7 +45,7 @@ setup(
         "py==1.8.0",
         "pycryptodome==3.9.4",
         "pyparsing==2.4.5",
-        "PyPDF2==1.26.0",
+        "PyPDF2==1.27.5",
         "pyrsistent==0.15.6",
         "pytesseract==0.3.0",
         "pytest==5.3.2",
