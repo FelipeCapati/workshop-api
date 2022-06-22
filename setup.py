@@ -35,7 +35,7 @@ setup(
         "jsonschema==3.2.0",
         "MarkupSafe==1.1.1",
         "more-itertools==8.0.0",
-        "numpy==1.17.4",
+        "numpy==1.22.0",
         "opencv-python==4.1.1.26",
         "packaging==19.2",
         "pdf2image==1.10.0",
